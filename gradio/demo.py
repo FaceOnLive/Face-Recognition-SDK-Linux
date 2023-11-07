@@ -92,7 +92,7 @@ with gr.Blocks() as demo:
     ```docker run -it -p 7860:7860 --platform=linux/amd64 \
 	-e LICENSE_KEY="YOUR_VALUE_HERE" \
 	registry.hf.space/faceonlive-face-recognition-sdk:latest ```<br/><br/>
-    Contact us at contact@faceonlive.com for issues and support.<br/>
+    Contact us at https://faceonlive.com for issues and support.<br/>
     """
     )
     with gr.Row():
