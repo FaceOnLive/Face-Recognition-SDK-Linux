@@ -1,2 +1,33 @@
-# Large binaries — distributed via GitHub Releases (see README)
+# Compiled SDK libraries, models & binaries — download the full SDK from the Releases page
+*.aar
+*.so
+*.so.*
+*.dll
+*.dylib
+*.a
+*.lib
+*.bin
+*.onnx
+*.pb
+*.tflite
+*.mlmodel
+*.dat
+*.pdb
+*.exe
+*.mui
+*.winmd
+*.jar
+!**/gradle/wrapper/gradle-wrapper.jar
+**/*.framework/
+opencv/
+_dependency/
+_Bin/
+/dependency/openvino/cache.json
+/dependency/openvino/libopenvino.so
+/dependency/openvino/libopenvino_intel_cpu_plugin.so
+/dependency/openvino/libopenvino_intel_hddl_plugin.so
+/dependency/openvino/libopenvino_intel_myriad_plugin.so
+/engine/bin/data1.bin
+/engine/bin/data2.bin
 /engine/bin/data31.bin
+/engine/bin/detect.bin
