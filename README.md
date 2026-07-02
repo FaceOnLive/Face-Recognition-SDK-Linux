@@ -4,6 +4,8 @@ Server-side face detection and 1:1 / 1:N face matching for Linux, exposed throug
 
 > Part of the [FaceOnLive](https://faceonlive.com) on-premises biometric SDK suite.
 
+> 📦 **Download the full SDK:** this repository contains the **source/demo code only**. The complete SDK — engine libraries and model files, with the full project structure — is attached to the [**Releases**](../../releases) page. Download the archive and extract it over this project.
+
 ## Features
 - Face detection and biometric template extraction.
 - Face similarity comparison for verification and identification.
